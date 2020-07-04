@@ -1,2 +1,3 @@
 *.zip
 .envrc
+/bin
